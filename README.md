@@ -1,5 +1,4 @@
-# task1
-Task 1 - Preprocessing
+Preprocessing
 
 >>>>
 miniMNM00065aln-ch1.bam (final output aligned to hg38 chromosome 1)
